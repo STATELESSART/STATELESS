@@ -1,6 +1,6 @@
 # STATELESS
 
-##Contracts for Stateless Art
+## Contracts for Stateless Art
 
 Current contract implements a function, DAOpay, which currently takes as input (manual for now, unfortunately) a list of DAO members addresses.
 
